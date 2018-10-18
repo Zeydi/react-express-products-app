@@ -11,9 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "bower": "^1.8.4",
+    "browser-sync": "^2.26.3",
+    "browserify": "^16.2.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "gulp": "^3.9.1",
-    "gulp-live-server": "0.0.31"
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.31",
+    "react": "^16.5.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^2.0.0"
   }
 }
